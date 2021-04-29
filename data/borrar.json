@@ -1,0 +1,13 @@
+{
+    "delete":[
+      {
+        "canonicalName": "RADIOGRAFIA",
+        "nativeLanguageTag": "es"
+      },
+      {
+        "canonicalName": "MASTOGRAFIA",
+        "nativeLanguageTag": "es"
+      }
+    ]
+  }
+  
