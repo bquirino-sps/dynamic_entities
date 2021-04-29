@@ -1,12 +1,12 @@
 {
     "add":[
       {
-        "canonicalName": "RADIOGRAFIA",
+        "canonicalName": "001",
         "synonyms":["radiografia", "radiografía"],
         "nativeLanguageTag": "es"
       },
       {
-        "canonicalName": "MASTOGRAFIA",
+        "canonicalName": "002",
         "synonyms":["mastografia", "mastografía"],
         "nativeLanguageTag": "es"
       }

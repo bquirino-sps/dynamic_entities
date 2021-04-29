@@ -1,15 +1,15 @@
 {
     "modify":[
       {
-        "canonicalName": "RADIOGRAFIA",
+        "canonicalName": "001",
         "synonyms":["NUEVO_SINONIMO", "NUEVO_SINONIMO"],
         "nativeLanguageTag": "es"
       },
       {
-        "canonicalName": "MASTOGRAFIA",
+        "canonicalName": "002",
         "synonyms":["NUEVO_SINONIMO","NUEVO_SINONIMO"],
         "nativeLanguageTag": "es"
       }
     ]
-  }
+}
   
