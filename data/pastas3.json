@@ -1,0 +1,36 @@
+{
+    "delete": [
+    
+        {
+            "canonicalName": "Vegetable Lasagne"
+        },
+        {
+            "canonicalName": "Classic Lasagne"        
+        }   
+    ],
+    "add": [
+        {
+            "canonicalName": "Bacon Pasta",
+            "synonyms": [
+                "Bacon"
+            ]
+        },
+        {
+            "canonicalName": "Beef Ragout",
+            "synonyms": null
+        },
+        {
+            "canonicalName": "Chestnut Mushroom Fusilli",
+            "synonyms": [
+                "Fusilli"
+            ]
+        },
+        {
+            "canonicalName": "Fettuccine Alfredo",
+            "synonyms": [
+                "Fettuccine",
+                "Alfredo"
+            ]
+        }
+    ]
+}

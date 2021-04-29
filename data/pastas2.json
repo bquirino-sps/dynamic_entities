@@ -1,0 +1,16 @@
+{
+    "delete": [
+        {
+            "canonicalName": "Bacon Pasta"           
+        },
+        {
+            "canonicalName": "Beef Ragout"
+        },
+        {
+            "canonicalName": "Chestnut Mushroom Fusilli"
+        },
+        {
+            "canonicalName": "Fettuccine Alfredo"
+        }
+    ]
+}
