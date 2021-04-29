@@ -1,8 +1,8 @@
 {
   "add":[
     {
-      "canonicalName": "RADIO",
-      "synonyms":["radiografia, radiografía"],
+      "canonicalName": "12345",
+      "synonyms":["radiografia"],
       "nativeLanguageTag": "es"
     }
   ]

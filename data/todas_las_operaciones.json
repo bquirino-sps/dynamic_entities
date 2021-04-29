@@ -1,36 +1,36 @@
 {
-    "add":[
-        {
-          "canonicalName": "RADIOGRAFIA",
-          "synonyms":["radiografia, radiografía"],
-          "nativeLanguageTag": "es"
-        },
-        {
-          "canonicalName": "MASTOGRAFIA",
-          "synonyms":["radiografia, radiografía"],
-          "nativeLanguageTag": "es"
-        }
-      ],
-      "delete":[
-        {
-          "canonicalName": "RADIOGRAFIA",
-          "nativeLanguageTag": "es"
-        },
-        {
-          "canonicalName": "MASTOGRAFIA",
-          "nativeLanguageTag": "es"
-        }
-      ],
-      "modify":[
-        {
-          "canonicalName": "RADIOGRAFIA",
-          "synonyms":["NUEVO_SINONIMO, _NUEVO_SINONIMO"],
-          "nativeLanguageTag": "es"
-        },
-        {
-          "canonicalName": "MASTOGRAFIA",
-          "synonyms":["NUEVO_SINONIMO, _NUEVO_SINONIMO"],
-          "nativeLanguageTag": "es"
-        }
-      ]
+  "add":[
+    {
+      "canonicalName": "RADIOGRAFIA",
+      "synonyms":["radiografia", "radiografía"],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "MASTOGRAFIA",
+      "synonyms":["mastografia", "mastografía"],
+      "nativeLanguageTag": "es"
+    }
+  ],
+  "delete":[
+    {
+      "canonicalName": "RADIOGRAFIA",
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "MASTOGRAFIA",
+      "nativeLanguageTag": "es"
+    }
+  ],
+  "modify":[
+    {
+      "canonicalName": "RADIOGRAFIA",
+      "synonyms":["NUEVO_SINONIMO", "NUEVO_SINONIMO"],
+      "nativeLanguageTag": "es"
+    },
+    {
+      "canonicalName": "MASTOGRAFIA",
+      "synonyms":["NUEVO_SINONIMO", "NUEVO_SINONIMO"],
+      "nativeLanguageTag": "es"
+    }
+  ]
 }

@@ -15,4 +15,5 @@ node index.js -s <skill name> -v <skill version> -e <entity name> -d <absolute p
 
 node index.js -s oda_resultados_compose_dev -v 1.0.2 -e ESTUDIOS -d C:/<path>/examplePatchData.json -c C:/<path>/exampleConfig.json --copy
 
+node index.js -s oda_resultados_compose_dev -v 1.0.2 -e ESTUDIOS -d 'C:/Users/erodriguez/OneDrive - SPS (1)/Desktop/githubs/DynamicEntityNodeWrapper/examplePatchData.json' -c 'C:/Users/erodriguez/OneDrive - SPS (1)/Desktop/githubs/DynamicEntityNodeWrapper/exampleConfig.json' --copy
 ```

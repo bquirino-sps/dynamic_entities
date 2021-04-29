@@ -2,12 +2,12 @@
     "modify":[
       {
         "canonicalName": "RADIOGRAFIA",
-        "synonyms":["NUEVO_SINONIMO, _NUEVO_SINONIMO"],
+        "synonyms":["NUEVO_SINONIMO", "NUEVO_SINONIMO"],
         "nativeLanguageTag": "es"
       },
       {
         "canonicalName": "MASTOGRAFIA",
-        "synonyms":["NUEVO_SINONIMO, _NUEVO_SINONIMO"],
+        "synonyms":["NUEVO_SINONIMO","NUEVO_SINONIMO"],
         "nativeLanguageTag": "es"
       }
     ]

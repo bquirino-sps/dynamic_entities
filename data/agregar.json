@@ -2,12 +2,12 @@
     "add":[
       {
         "canonicalName": "RADIOGRAFIA",
-        "synonyms":["radiografia, radiografía"],
+        "synonyms":["radiografia", "radiografía"],
         "nativeLanguageTag": "es"
       },
       {
         "canonicalName": "MASTOGRAFIA",
-        "synonyms":["radiografia, radiografía"],
+        "synonyms":["mastografia", "mastografía"],
         "nativeLanguageTag": "es"
       }
     ]
